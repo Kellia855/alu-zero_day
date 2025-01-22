@@ -1,1 +1,1 @@
-# git directory in alu-zero_day
+This directory contains tasks related to Git
